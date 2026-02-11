@@ -1,6 +1,5 @@
 # 💫 About Me:
-As an undergrad in Computer Science, I'm really interested in how Artificial Intelligence (AI) could be used to solve problems in the real world. I like making everything from machine learning models to smart systems because it lets me connect theory and practice. I'm always looking for new ways to do things and can't wait to meet people who share my desire to build the future.
-
+As an undergrad in Computer Science, I'm really interested in how Artificial Intelligence (AI) could be used to solve problems in the real world. I like making everything from machine learning models to smart systems because it lets me connect theory and practice.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/335276022008381459) 
